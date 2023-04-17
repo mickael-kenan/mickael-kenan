@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hydejack Starter Kit
 
-<!--
-**mickael-kenan/mickael-kenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
-Here are some ideas to get you started:
+## Quick Start
+### Running locally
+1. Clone repository (git users), or [download] and unzip.
+2. Open terminal, `cd` into root directory (where `_config.yml` is located)
+3. Run `bundle install` [^1]
+4. Run `bundle exec jekyll serve`
+5. Open <http://localhost:4000/hydejack-starter-kit/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What's next?
+* Open files and read the comments
+* Read the [docs](https://hydejack.com/docs/)
+* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
+
+[^1]: Requires Bundler. Install with `gem install bundler`.
+
+[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
