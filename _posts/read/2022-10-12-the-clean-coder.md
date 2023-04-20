@@ -6,7 +6,7 @@ category: read
 My notes of the book The Clean Coder by Robert C. Martin.
 
 I urge every developer to read this book.
-The book contains practical advices on what it means to be a profesionnal developer.
+The book contains practical explanation on what it means to be a profesionnal developer.
 
 <!--more-->
 
