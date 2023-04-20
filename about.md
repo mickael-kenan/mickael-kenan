@@ -11,7 +11,7 @@ order: 1
 
 Hi, I'm **Mickaël KENAN**, *a.k.a.* **Mickeii**.<br>
 I'm currently working as a freelance web developer, and previsouly was student of **[IUT Robert Schuman]**.<br><br><br>
-Please check my [resume][resume] if you wish to know more about me.
+Please check my [resume](/resume/) if you wish to know more about me.
 
 ***
 

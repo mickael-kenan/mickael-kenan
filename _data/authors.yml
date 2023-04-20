@@ -9,7 +9,7 @@ author1:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
     Frelance Web Developer<br>
-    Please check my [resume][resume] to find out more about me!<br>
+    Please check my [resume](/resume/) to find out more about me!<br>
 
     [resume]: /resume/
 
