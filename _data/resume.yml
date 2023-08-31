@@ -159,19 +159,19 @@ education:
 #     releaseDate: "2014-10-01"
 #     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
 #     summary: "Innovative middle-out compression algorithm that changes the way we store data."
-skills:
-  - name: "Algorithm"
-    level: "Intermediate"
-  - name: "Web Development"
-    level: "Intermediate"
-    keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-      - "Typescript"
-      - "Angular"
-      - "React"
-      - "Nestjs"
+#skills:
+#  - name: "Algorithm"
+#    level: "Intermediate"
+#  - name: "Web Development"
+#    level: "Intermediate"
+#    keywords:
+#      - "HTML"
+#      - "CSS"
+#      - "Javascript"
+#      - "Typescript"
+#      - "Angular"
+#      - "React"
+#      - "Nestjs"
   - name: "Sociability"
     level: "Master"
     keywords:
