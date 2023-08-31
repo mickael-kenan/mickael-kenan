@@ -159,7 +159,7 @@ education:
 #     releaseDate: "2014-10-01"
 #     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
 #     summary: "Innovative middle-out compression algorithm that changes the way we store data."
-#skills:
+skills:
 #  - name: "Algorithm"
 #    level: "Intermediate"
 #  - name: "Web Development"
