@@ -6,7 +6,7 @@ description: >
   Hi, I'm Mickaël KENAN, web developer.
 hide_description: true
 sidebar: true
-order: 5
+order: 1
 left_column:
  - work
  - education

@@ -4,7 +4,7 @@ type: category
 title: Reading
 slug: read
 sidebar: true
-order: 2
+order: 3
 description: >
   Anything about my readings
 ---

@@ -1,10 +1,10 @@
 ---
 layout: list
 type: category
-title: Front-end
-slug: front
+title: Machine Learning
+slug: llm
 sidebar: true
-order: 3
+order: 2
 description: >
-  Anything about Front-end
+  Anything on LLMs
 ---
