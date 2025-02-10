@@ -21,16 +21,28 @@ basics:
       url: "https://www.linkedin.com/in/mickael-kenan/"
 work:
   - company: "Freelance Developer"
-    position: "Full-stack Developer"
     website: https://mickeiik.github.io/"
-    startDate: "2022-04-01"
+    startDate: "2024-05-01"
     endDate: ""
     highlights:
-      - "Freelancing in web development"
-      - "Front-end integration"
-      - "Wordpress"
-      - "Blogging"
-      - "Learning DevOps and architecture"
+      - Full-Stack web development, AWS, intro to machine learning
+
+  - company: "Merck Life Science"
+    position: "Frontend Web Developer"
+    website: https://www.merckgroup.com/fr-fr/company/who-we-are/life-science.html"
+    startDate: "2023-11-01"
+    endDate: "2024-04-30"
+    highlights:
+      - UI Component library development in ReactJS
+
+  - company: "Freelance Developer"
+    position: "Full-stack Developer"
+    website: https://mickeiik.github.io/"
+    startDate: "2022-02-01"
+    endDate: "2023-11-01"
+    highlights:
+      - Wordpress, front-end integration (Angular, React), deployment (AWS, Lambda)
+
   - company: "Hamilton Apps"
     position: "Full-stack Developer"
     website: https://hamiltonapps.com/"
@@ -38,16 +50,16 @@ work:
     endDate: "2022-01-30"
     highlights:
       - "Designing and building a Smart Workplace product as a service (SaaS)"  
-      - "Architecture Domain-driven design (DDD)"
-      - "Command Query Responsibility Segregation (CQRS)"
-      - "Tools used: Angular 11/12, Typescript, PostgreSQL, NestJS, TypeORM, Storybook, Jest"
+      - "Architecture Domain-driven design (DDD), Command Query Responsibility Segregation (CQRS)"
+
   - company: "Freelance Developer"
     position: "Full-stack Developer"
     website: "https://mickeiik.github.io/"
     startDate: "2019-10-01"
     endDate: "2020-06-01"
     highlights:
-      - "Helping entreprenors with their web content. Blogging, Wordpress, front-end integration, design,.."
+      - "Helping entreprenors with their web content. Blogging, Wordpress, front-end integration, deployment (AWS, Lambda)"
+
   - company: "Pandacola"
     position: "Full-stack Developer"
     website: "https://pandacola.com/"
@@ -56,6 +68,7 @@ work:
     summary:
     highlights:
       - "Building new features in a stack of more than 15 services build in NodeJS to answer the special needs of an innovative marketplace working with external products like Mirakl, Limonetik.."
+
   - company: "TokTokDoc"
     position: "Full-stack Developer"
     website: "https://toktokdoc.com/"
@@ -64,6 +77,7 @@ work:
     summary:
     highlights:
       - "Maintaining and updating a tele-consultation service between doctors and patients through a React-Native iPad app and WebApp while rebuilding a V2 from the ground up."
+
   - company: "Soochef"
     position: "Developer / Order Picker"
     website: "https://www.linkedin.com/company/soochef/"
